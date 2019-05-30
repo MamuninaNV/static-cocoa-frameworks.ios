@@ -1,5 +1,5 @@
 NAME=Alamofire
 SCHEME=$(NAME)
-VERSION=4.8.1
+VERSION=4.8.2
 
 include Makefile.in
